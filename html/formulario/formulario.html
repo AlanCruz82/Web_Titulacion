@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <title>Modalidades de titulación</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="../css/styleMaterialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+<body>
+   
+    <div class="row">
+        <form class="col s12">
+          <div class="row">
+            <div class="input-field col s6">
+              <input placeholder="Placeholder" id="first_name" type="text" class="validate" minlength="4">
+              <label for="first_name">Nombres</label>
+              <span class="helper-text" data-error="wrong" data-success="right">Minimo 4 letras</span>
+            </div>
+            <div class="input-field col s6">
+              <input placeholder="Placeholder" id="last_name" type="text" class="validate" minlength="4">
+              <label for="last_name">Apellido Paterno</label>
+              <span class="helper-text" data-error="wrong" data-success="right">Minimo 4 letras</span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="input-field col s6">
+              <input placeholder="Placeholder" id="disabled" type="text" class="validate" minlength="4">
+              <label for="disabled">Apellido Materno</label>
+              <span class="helper-text" data-error="wrong" data-success="right">Minimo 4 letras</span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="input-field col s6">
+                <input placeholder="Placeholder" id="disabled" type="number" class="validate" minlength="9" maxlength="9">
+                <label for="disabled">Número de cuenta</label>
+                <span class="helper-text" data-error="wrong" data-success="right">Es necesario 9 numeros</span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="input-field col s12">
+                <select>
+                  <option value="" disabled selected>Modalidades de titulación</option>
+                  <option value="1">Option 1</option>
+                  <option value="2">Option 2</option>
+                  <option value="3">Option 3</option>
+                </select>
+                <label>Materialize Select</label>
+              </div>
+          </div>
+          <div class="row">
+            <div class="input-field col s12">
+                <select>
+                  <option value="" disabled selected>Plan de estudios</option>
+                  <option value="0080">Plan 0080</option>
+                  <option value="0082">Plan 0082</option>
+                  <option value="1279">Plan 1279</option>
+                  <option value="2119">Plan 2119</option>
+                </select>
+                <label>Materialize Select</label>
+              </div>
+          </div>
+          <div class="row">
+            <button class="col s1 btn waves-effect waves-light" type="submit" name="action">
+                Enviar
+                <i class="material-icons right">send</i>
+            </button>
+          </div>
+        </form>
+      </div>
+   <script> 
+    document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('select');
+    var instances = M.FormSelect.init(elems, "");
+  });
+   </script>
+    <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="../js/materialize.js"></script>
+  <script src="../js/init.js"></script>
+</body>
+</html>
