@@ -1,32 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  <title>Modalidades de titulación</title>
+<?php
+  include("./header.php");
+?>
 
-  <!-- CSS  -->
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="./css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-  <link href="./css/styleMaterialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-  <link rel="stylesheet" href="./css/style.css">
-</head>
 <body>
-<header>
-  <nav>
-    <div class="nav-wrapper">
-      <div id="logo-container" class="brand-logo">
-        <img src="./img/Logo_unam.png" class="logo">
-        <img src="./img/Logo_fes.png" class="logo">
-        <span class="titulo">Titulación</span>
-      </div>
-      <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><a href="index.html">Inicio</a></li>
-      </ul>
-    </div>
-  </nav>
-</header>
 
   <div id="index-banner" class="parallax-container" style="background-color: gray;">
     <div class="section no-pad-bot">
@@ -124,38 +100,9 @@
     </div>
     <div class="parallax"><img src="" alt="Unsplashed background img 2"></div>
   </div>
-
-  <footer class="page-footer">
-    <div class="container">
-      <div class="row">
-        <div class="col l6 s12">
-          <h5 class="white-text">UNAM | FES Aragón</h5>
-          <p class="grey-text text-lighten-4">Hecho en México, © 2014 Derechos Reservados.<br>Página
-          Esta página puede ser reproducida con fines no lucrativos, siempre y cuando no se mutile,
-          se cite la fuente completa y su dirección electrónica. De otra forma, requiere permiso
-          previo por escrito de la institución.</p>
-        </div>
-        <div class="col l4 offset-l2 s12">
-          <h5 class="white-text">Contacto</h5>
-          <ul>
-            <li><a class="grey-text text-lighten-3" href="https://www.facebook.com/FESAragon.computacion"><i class="fa-brands fa-facebook"></i></a> Ingeniería en computación</li>
-            <li><a class="grey-text text-lighten-3" href="https://www.instagram.com/fesaragonunam/?hl=es"><i class="fa-brands fa-instagram"></i></a> Fes Aragón</li>
-            <li><a class="grey-text text-lighten-3" href="#!"><i class="fa-regular fa-envelope"></i> st.computacion@aragon.unam.mx</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="footer-copyright">
-      <div class="container">
-      © 2024 Copyright
-      </div>
-    </div>
-  </footer>
-
-  <!--  Scripts-->
-  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-  <script src="./js/materialize.js"></script>
-  <script src="./js/init.js"></script>
-
   </body>
 </html>
+
+<?php
+  include("./footer.php");
+?>
