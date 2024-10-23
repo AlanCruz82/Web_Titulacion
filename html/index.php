@@ -13,7 +13,7 @@
         </div>
         <br><br>
     </div>
-    <div class="parallax"><img src=""></div>
+    <div class="parallax"><img src="./img/Logo_unam.png"></div>
   </div>
 
 
@@ -28,13 +28,11 @@
           <div class="card-panel cardPlanEstudios colorCardPlanEstudiosLados">
             <h5>Plan 80</h5>
             <p>Requisitos</p>
-            <ul>
-              <li>Uno</li>
-              <li>Dos</li>
-              <li>Tres</li>
-              <li>Cuatro</li>
-            </ul>
-            <a class="waves-effect btn-small botonCardLateral">Modos de titulación</a>
+            <ol>
+              <li>Certificado de estudios</li>
+              <li>Carta de liberación Servicio Social</li>
+            </ol>
+            <a class="waves-effect btn-small botonCardLateral" href="./modos.php">Modos de titulación</a>
           </div>
         </div>
       </div>
@@ -44,13 +42,12 @@
           <div class="card-panel cardPlanEstudios colorCardPlanEstudiosMedio">
             <h5>Plan 1279</h5>
             <p>Requisitos</p>
-            <ul>
-              <li>Uno</li>
-              <li>Dos</li>
-              <li>Tres</li>
-              <li>Cuatro</li>
-            </ul>
-            <a class="waves-effect btn-small botonCardMedio">Modos de titulación</a>
+            <ol>
+              <li>Certificado de estudios</li>
+              <li>Carta de liberación Servicio Social</li>
+              <li>Constancia aprobatoria Inglés</li>
+            </ol>
+            <a class="waves-effect btn-small botonCardMedio" href="./modos.php">Modos de titulación</a>
           </div>
         </div>
       </div>
@@ -60,13 +57,13 @@
           <div class="card-panel cardPlanEstudios colorCardPlanEstudiosLados">
             <h5>Plan 2119</h5>
             <p>Requisitos</p>
-            <ul>
-              <li>Uno</li>
-              <li>Dos</li>
-              <li>Tres</li>
-              <li>Cuatro</li>
-            </ul>
-            <a class="waves-effect btn-small botonCardLateral">Modos de titulación</a>
+            <ol>
+              <li>Certificado de estudios</li>
+              <li>Carta de liberación Servicio Social</li>
+              <li>Constancia aprobatoria Inglés</li>
+              <li>Constancia de liberacion horas complementarias</li>
+            </ol>
+            <a class="waves-effect btn-small botonCardLateral" href="./modos.php">Modos de titulación</a>
           </div>
         </div>
       </div>
@@ -76,13 +73,11 @@
           <div class="card-panel cardPlanEstudios colorCardPlanEstudiosLados">
             <h5>Plan 82</h5>
             <p>Requisitos</p>
-            <ul>
-              <li>Uno</li>
-              <li>Dos</li>
-              <li>Tres</li>
-              <li>Cuatro</li>
-            </ul>
-            <a class="waves-effect btn-small botonCardLateral">Modos de titulación</a>
+            <ol>
+              <li>Certificado de estudios</li>
+              <li>Carta de liberación Servicio Social</li>
+            </ol>
+            <a class="waves-effect btn-small botonCardLateral" href="./modos.php">Modos de titulación</a>
           </div>
         </div>
       </div>
