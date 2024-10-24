@@ -1,0 +1,19 @@
+.contenedorPrincipal{
+    width: 50%; 
+    margin: auto; 
+    border-style: outset; 
+    padding: 50px;
+}
+
+.butonFormulario{
+    flex-shrink: 3;
+    background-color: rgb(167, 167, 167);
+}
+
+.butonFormulario:hover{
+    background-color: rgb(88, 87, 87);
+}
+
+.butonFormulario:active{
+    background-color: rgb(205,205,205);
+}
