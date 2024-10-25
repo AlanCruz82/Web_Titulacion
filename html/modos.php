@@ -132,7 +132,7 @@
     <h2 class="header">Horizontal Card</h2>
     <div class="card horizontal">
       <div class="card-image">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ01n-2ifSMakDVHrXwSOjKOWdTowaTtESyynOtPZSUQKg5hsTF7zwVUMbQg7kK7CHKS48&usqp=CAU">
+        <img src="">
         <p>Por actividad de investigación en su alternativa de tesis o tesina</p>
       </div>
       <div class="card-stacked">
@@ -150,7 +150,7 @@
     <h2 class="header">Horizontal Card</h2>
     <div class="card horizontal">
       <div class="card-image">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ01n-2ifSMakDVHrXwSOjKOWdTowaTtESyynOtPZSUQKg5hsTF7zwVUMbQg7kK7CHKS48&usqp=CAU">
+        <img src="">
         <p>Por actividad de investigación en su alternativa de tesis o tesina</p>
       </div>
       <div class="card-stacked">
@@ -168,7 +168,7 @@
     <h2 class="header">Horizontal Card</h2>
     <div class="card horizontal">
       <div class="card-image">
-        <img src="https://lorempixel.com/100/190/nature/6">
+        <img src="">
         <p>Por actividad de investigación en su alternativa de tesis o tesina</p>
       </div>
       <div class="card-stacked">
@@ -186,7 +186,7 @@
     <h2 class="header">Horizontal Card</h2>
     <div class="card horizontal">
       <div class="card-image">
-        <img src="https://lorempixel.com/100/190/nature/6">
+        <img src="">
         <p>Por actividad de investigación en su alternativa de tesis o tesina</p>
       </div>
       <div class="card-stacked">
@@ -199,22 +199,6 @@
       </div>
     </div>
   </div>
-  <!-- <div class="col s12 m7">
-    <h2 class="header">Apoyo a la docencia</h2>
-    <div class="card horizontal">
-      <div class="card-image">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9zeTvdxn5xWjZY5bViAxt6Zyt_AOJMkLuQA&s">
-      </div>
-      <div class="card-stacked">
-        <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.</p>
-        </div>
-        <div class="card-action">
-          <a href="#">This is a link</a>
-        </div>
-      </div>
-    </div>
-  </div> -->
 <?php
   include("./footer.php");
 ?>

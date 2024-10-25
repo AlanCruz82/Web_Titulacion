@@ -1,19 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  <title>Modalidades de titulación</title>
+<?php
+  include("./header.php");
+?>
 
-  <!-- CSS  -->
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-  <link href="../css/styleMaterialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-  <link rel="stylesheet" href="styleFormulario.css">
-</head>
 <body>
-   <header>dsS</header>
     <div class="contenedorPrincipal">
         <form class="col s6 m7" method="post">
           <div class="row">
@@ -74,10 +63,8 @@
           </div>
         </form>
     </div>
-    <!--  Scripts-->
-  <script src="selectMaterialize.js"></script>  
-  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-  <script src="../js/materialize.js"></script>
-  <script src="../js/init.js"></script>
 </body>
-</html>
+
+<?php
+  include("./footer.php");
+?>

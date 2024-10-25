@@ -95,8 +95,7 @@
     </div>
     <div class="parallax"><img src="" alt="Unsplashed background img 2"></div>
   </div>
-  </body>
-</html>
+</body>
 
 <?php
   include("./footer.php");

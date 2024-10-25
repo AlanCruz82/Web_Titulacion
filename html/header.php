@@ -23,7 +23,7 @@
       </div>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="./index.php">Inicio</a></li>
-        <li><a href="">Registro modalidad</a></li>
+        <li><a href="./formulario.php">Registro modalidad</a></li>
       </ul>
     </div>
   </nav>
