@@ -15,7 +15,7 @@
 
 <header>
   <nav>
-    <div class="nav-wrapper">
+    <div class="nav-wrapper blue darken-4">
       <img src="./img/Logo_unam.png" class="logo">
       <img src="./img/Logo_fes.png" class="logo">
       <span class="brand-logo">Titulación</span>
