@@ -15,7 +15,7 @@
         <br><br>
       </div>
     </div>
-    <div class="parallax responsive-img"><img src="C:\xampp\htdocs\Web_Titulacion\html\img\Entrada_fes.png"></div>
+    <div class="parallax responsive-img"><img src="./img/Entrada_fes.png"></div>
   </div>
 
 
@@ -96,7 +96,7 @@
         </div>
       </div>
     </div>
-    <div class="parallax responsive-img"><img src="C:\xampp\htdocs\Web_Titulacion\html\img\facultad_fes.png"></div>
+    <div class="parallax responsive-img"><img src="./img/facultad_fes.png"></div>
   </div>
 </body>
 
