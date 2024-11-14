@@ -15,7 +15,7 @@
         <br><br>
       </div>
     </div>
-    <div class="parallax responsive-img"><img src="https://tvazteca.brightspotcdn.com/dims4/default/86ba5be/2147483647/strip/true/crop/1280x720+0+0/resize/928x522!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc4%2F92%2Fb0b30ba14aada1d054077cbf1ef1%2Fse-mantiene-suspension-de-clases-en-la-fes-aragon-por-fuertes-lluvias.jpg"></div>
+    <div class="parallax responsive-img"><img src="C:\xampp\htdocs\Web_Titulacion\html\img\Entrada_fes.png"></div>
   </div>
 
 
@@ -96,7 +96,7 @@
         </div>
       </div>
     </div>
-    <div class="parallax responsive-img"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Facultad_de_Estudios_Superiores_%28FES%29_Aragon.jpg/2560px-Facultad_de_Estudios_Superiores_%28FES%29_Aragon.jpg"></div>
+    <div class="parallax responsive-img"><img src="C:\xampp\htdocs\Web_Titulacion\html\img\facultad_fes.png"></div>
   </div>
 </body>
 
