@@ -124,7 +124,7 @@
             de la carrera.</i></p>
           </div>
           <div class="card-action">
-            <a href="./pdf/investigacion-ico.pdf">Programas</a>
+            <a href="./pdf/Actividad-investigacion.pdf">Programas</a>
           </div>
         </div>
         <div class="card-reveal">
