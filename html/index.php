@@ -95,6 +95,13 @@
     </div>
     <div class="parallax"><img src="" alt="Unsplashed background img 2"></div>
   </div>
+  <script>
+        const mensaje = localStorage.getItem('mensaje');
+        if (mensaje) {
+            alert(mensaje);
+            localStorage.removeItem('mensaje');
+        }
+    </script>
 </body>
 
 <?php
