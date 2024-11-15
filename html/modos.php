@@ -20,7 +20,7 @@
             del mismo programa o de diferentes programas</i></p>
           </div>
           <div class="card-action">
-            <a href="#">Programas</a>
+            <a href="./pdf/listado-de-personas-tutoras.pdf">Programas</a>
           </div>
         </div>
         <div class="card-reveal">
@@ -124,7 +124,7 @@
             de la carrera.</i></p>
           </div>
           <div class="card-action">
-            <a href="#">Programas</a>
+            <a href="./pdf/investigacion-ico.pdf">Programas</a>
           </div>
         </div>
         <div class="card-reveal">
@@ -211,7 +211,7 @@
             </i></p>
           </div>
           <div class="card-action">
-            <a href="#">Programas</a>
+            <a href="./pdf/apoyo-docencia.pdf">Programas</a>
           </div>
         </div>
         <div class="card-reveal">
@@ -398,7 +398,7 @@
             de la carrera.</i></p>
           </div>
           <div class="card-action">
-            <a href="#">Programas</a>
+            <a href="./pdf/proyectos-investigacion-ico.pdf">Programas</a>
           </div>
         </div>
         <div class="card-reveal">
@@ -474,7 +474,7 @@
             </i></p>
           </div>
           <div class="card-action">
-            <a href="#">Programas</a>
+            <a href="./pdf/examen-general.pdf">Programas</a>
           </div>
         </div>
         <div class="card-reveal">
@@ -563,7 +563,7 @@
             </i></p>
           </div>
           <div class="card-action">
-            <a href="#">Programas</a>
+            <a href="./pdf/listado-de-posgrados.pdf">Programas</a>
           </div>
         </div>
         <div class="card-reveal">
@@ -609,7 +609,7 @@
             de la carrera.</i></p>
           </div>
           <div class="card-action">
-            <a href="#">Programas</a>
+            <a href="./pdf/Ampliacion-de-solicitud.pdf">Programas</a>
           </div>
         </div>
         <div class="card-reveal">
@@ -655,7 +655,7 @@
             de la carrera.</i></p>
           </div>
           <div class="card-action">
-            <a href="#">Programas</a>
+            <a href="./pdf/listado-de-cursos-o-diplomados.pdf">Programas</a>
           </div>
         </div>
         <div class="card-reveal">
