@@ -4,16 +4,18 @@
 
 <body>
 
-  <div id="index-banner" class="parallax-container" style="background-color: gray;">
+  <div id="index-banner" class="parallax-container">
     <div class="section no-pad-bot">
+      <div class="container">
         <br><br>
-        <h1 class="header center teal-text text-lighten-2">Ingenieria en Computación</h1>
+        <h1 class="header center white-text">Ingeniería en computación</h1>
         <div class="row center">
-          <h4 class="header col s12 light">Modalidades de titulación</h4>
+          <h5 class="header col s12 light">Modalidades de titulación</h5>
         </div>
         <br><br>
+      </div>
     </div>
-    <div class="parallax"><img src="./img/Logo_unam.png"></div>
+    <div class="parallax responsive-img"><img src="./img/Entrada_fes.png"></div>
   </div>
 
 
@@ -85,15 +87,16 @@
   </div>
 
 
-  <div class="parallax-container valign-wrapper" style="background-color: gray;">
+  <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
       <div class="container">
         <div class="row center">
-          <h2 class="header col s12 light">Formato De Registro</h2>
+          <h3 class="header col s12 light">Formato de registro</h3>
+          <iframe src="" frameborder="10" width="600" height="400"></iframe>
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="" alt="Unsplashed background img 2"></div>
+    <div class="parallax responsive-img"><img src="./img/facultad_fes.png"></div>
   </div>
 </body>
 
