@@ -7,7 +7,7 @@
   <h4 class="center-align">Modalidad: Con trabajo Escrito y Réplica Oral</h4>
 
   <div class="row">
-    <div class="col s6">
+    <div class="col s10 m6">
       <h5 class="header">Mediante tesis o tesina y examen profesional</h5>
       <div class="card horizontal hoverable">
         <div class="card-image">
@@ -111,7 +111,7 @@
   </div>
 
   <div class="row">
-    <div class="col s6 offset-s6">
+    <div class="col s10 m6 offset-s2 offset-m6">
       <h5 class="center-align">Por actividad de investigación en su alternativa de tesis o tesina</h5>
       <div class="card horizontal hoverable">
         <div class="card-image">
@@ -196,7 +196,7 @@
   <h4 class="center-align">Modalidad: Con trabajo Escrito, sin Réplica Oral</h4>
 
   <div class="row">
-    <div class="col s6">
+    <div class="col s10 m6">
       <h5 class="header">Por actividad de apoyo a la docencia</h5>
       <div class="card horizontal hoverable">
         <div class="card-image">
@@ -269,7 +269,7 @@
   </div>
 
   <div class="row">
-    <div class="col s6 offset-s6">
+    <div class="col s10 m6 offset-s2 offset-m6">
       <h5 class="center-align">Por trabajo profesional</h5>
       <div class="card horizontal hoverable">
         <div class="card-image">
@@ -341,7 +341,7 @@
   </div>
 
   <div class="row">
-    <div class="col s6">
+    <div class="col s10 m6">
       <h5 class="header">Por Servicio Social</h5>
       <div class="card horizontal hoverable">
         <div class="card-image">
@@ -414,7 +414,7 @@
   </div>
 
   <div class="row">
-    <div class="col s6 offset-s6">
+    <div class="col s10 m6 offset-s2 offset-m6">
       <h5 class="center-align">Por actividad de investigación en su alternativa de artículo académico</h5>
       <div class="card horizontal hoverable">
         <div class="card-image">
@@ -489,7 +489,7 @@
   <h4 class="center-align">Modalidad: Sin Trabajo Escrito</h4>
 
   <div class="row">
-    <div class="col s6">
+    <div class="col s10 m6">
       <h5 class="header">Mediante examen general de conocimientos externo</h5>
       <div class="card horizontal hoverable">
         <div class="card-image">
@@ -534,7 +534,7 @@
   </div>
 
   <div class="row">
-    <div class="col s6 offset-s6">
+    <div class="col s10 m6 offset-s2 offset-m6">
       <h5 class="center-align">Por totalidad de créditos y alto nivel académico</h5>
       <div class="card horizontal hoverable">
         <div class="card-image">
@@ -578,7 +578,7 @@
   </div>
 
   <div class="row">
-    <div class="col s6">
+    <div class="col s10 m6">
       <h5 class="header">Mediante estudios en posgrado</h5>
       <div class="card horizontal hoverable">
         <div class="card-image">
@@ -623,7 +623,7 @@
   </div>
 
   <div class="row">
-    <div class="col s6 offset-s6">
+    <div class="col s10 m6 offset-s2 offset-m6">
       <h5 class="center-align">Por ampliación y profundización de conocimientos en su alternativa de semestre
         adicional
       </h5>
@@ -669,7 +669,7 @@
   </div>
 
   <div class="row">
-    <div class="col s6">
+    <div class="col s10 m6">
       <h5 class="center-align">Por ampliación y profundización de conocimientos en su alternativa de Cursos o
         Diplomados de Educación Continua
       </h5>
