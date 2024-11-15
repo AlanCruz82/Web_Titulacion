@@ -204,9 +204,10 @@
         </div>
         <div class="card-stacked">
           <div class="card-content">
-            <p><i>Consiste en el desarollo de un trabajo escrito por la elaboración de material didactico
-            y/o la critica escrita del programa de alguna asignatura o actividad academica del plan de estudios
-            de licenciatura o bachillerato, o de este en su totalidad.
+            <p><i>Que el alumno brinde apoyo al área de Ingeniería en Computación, mediante la
+            creación y desarrollo de material didáctico y lúdico (manuales
+            de equipos de laboratorio, manuales de prácticas de laboratorio, videos de apoyo, etc.) que pueda servir de apoyo a los docentes
+            para la complementación de su práctica docente.
             </i></p>
           </div>
           <div class="card-action">
@@ -223,43 +224,35 @@
           </div>
           <div id="test7" class="col s12">
             <ul>
-              <li><blockquote>Expresar una posición referente a un tema en específico (relacionado con la
-              licenciatura de Ingeniería en Computación), y que responde a una pregunta o hipótesis
-              formulada dentro del trabajo mismo</blockquote></li>
+              <li><blockquote>Que el alumno brinde apoyo al área de Ingeniería en Computación, mediante la
+              creación y desarrollo de material didáctico y lúdico (algún software en específico, manuales de equipos de laboratorio, 
+              manuales de prácticas de laboratorio, videos de apoyo para ciertas materias creados por ellos mismos,  etc.) 
+              que pueda servir de apoyo a los docentes para la complementación de su práctica docente.</blockquote></li>
               <ol>
-                <li>Emplear una metodologia cientifica</li>
-                <li>Debe contener caracteristicas de los textos cientificos</li>
-                <li>Debe contener referencias y citas</li>
-                <li>La estructura y escritura deben ser claras y concisas</li>
-                <li>Debe presentar originalidad en el estilo y contenido</li>
-                <li>Debe seguir un orden en el capitulado y centrarse en el tema a defender</li>
+                <li>El material didáctico deberá estar relacionado con alguna necesidad específica de
+                los diferentes planes de estudio de las carreras que se imparten en la UNAM.</li>
+                <li>Se señalará el curso, asignatura o actividad curricular que se pretende apoyar, en
+                qué semestre está ubicada, si es optativa u obligatoria y línea de articulación a la
+                que pertenece.</li>
+                <li>Si, por el contrario, el material está relacionado con algún otro tipo o nivel educativo,
+                deberá especificarse y describirse detalladamente, mencionando sus
+                particularidades disciplinares, curriculares, institucionales, entre otras.</li>
               </ol>
             </ul>
           </div>
           <div id="test8" class="col s12">
             <ul>
-              <li><blockquote>Demostrar que el estudiante sustentante cuenta con la formación necesaria en la
-              trayectoria correspondiente y de igual manera, posee las capacidades necesarias para
-              organizar sus conocimientos y expresarlos de manera correcta, ordenada y coherente, en
-              un trabajo escrito,
+              <li><blockquote>Partiendo de la visión, experiencia y conocimientos adquiridos durante la carrera,
+              el estudiante puede exponer algunas sugerencias, observaciones y puntualizaciones
+              necesarias para la mejora de alguna materia o incluso de la carrera.
               </blockquote></li>
               <ol>
-                <li>Debe ser un texto tipo expositivo-demostrativo.</li>
-                <li>El sustentante debe demostrar que ha adquirido una serie de conocimientos
-                necesarios para ejercer su profesión.
-                </li>
-                <li>Mostrar un marco teorico y estado del arte pertenecientes a la época y 
-                tema a desarrollar.
-                </li>
-                <li>El trabajo debe contener un tono y lenguaje formal así como una inteción
-                rigurosa y objetiva.
-                </li>
-                <li><b>La extensión debe ser más corta que una tesis</b></li>
-                <li>Debe contar con citas y referencias bibliográficas.</li>
-                <li>Los capitulos deben ser pertenecientes al tema central y tener continuidad
-                entre los mismos.
-                </li>
-                <li>Debe respetar signos de puntuación y una secuencia lógica.</li>
+                <li>Debe contener una crítica estructurada y argumentada de manera adecuada.</li>
+                <li>Debe responder a un tema de inquietud genuina y buscar la mejora de esta.</li>
+                <li>Es necesario que contenga las observaciones de manera puntual y directa, así como
+                una organización de ideas claras y ordenadas.</li>
+                <li>Debe promover un posible análisis más profundo de la temática a tratar, y así lograr
+                una mejora.</li>
               </ol>
             </ul>
           </div>
@@ -277,9 +270,9 @@
         </div>
         <div class="card-stacked">
           <div class="card-content">
-            <p><i>Para las personas que se hayan incorporado y participado (por lo
-            menos un semestre) en los proyectos de investigación aprobados por el Comité Académico
-            de la carrera.</i></p>
+            <p><i>Para la persona solicitante que desde seis meses antes o al término de
+            sus estudios se haya incorporado al menos dos años naturales a una actividad profesional
+            comprobable afín a su formación y presente un informe escrito.</i></p>
           </div>
           <div class="card-action">
             <a href="#">Programas</a>
@@ -295,43 +288,30 @@
           </div>
           <div id="test10" class="col s12">
             <ul>
-              <li><blockquote>Expresar una posición referente a un tema en específico (relacionado con la
-              licenciatura de Ingeniería en Computación), y que responde a una pregunta o hipótesis
-              formulada dentro del trabajo mismo</blockquote></li>
+              <li><blockquote>Trabajo o documento que describe las actividades profesionales que el egresado,
+              durante o al término de sus estudios desarrolla, ya sea un proyecto o alguna otra actividad,
+              con el fin de reflejar la manera en la que el egresado puso en práctica los conocimientos y
+              habilidades adquiridos durante la carrera.</blockquote></li>
               <ol>
-                <li>Emplear una metodologia cientifica</li>
-                <li>Debe contener caracteristicas de los textos cientificos</li>
-                <li>Debe contener referencias y citas</li>
-                <li>La estructura y escritura deben ser claras y concisas</li>
-                <li>Debe presentar originalidad en el estilo y contenido</li>
-                <li>Debe seguir un orden en el capitulado y centrarse en el tema a defender</li>
+                <li>Debe contar con: Portada, índice secuencial, resumen ejecutivo, introducción, marco
+                teórico (de ser necesario), metodología, capitulado, análisis de resultados e impactos 
+                del proyecto, conclusiones y recomendaciones, bibliografía, anexos y apéndices.</li>
+                <li>Debe contar con buena ortografía y redacción.</li>
+                <li>Si se incluyen imágenes en el trabajo, éstas deberán contener la fuente de consulta.</li>
+                <li>El trabajo debe ser redactado en primera persona del singular y asimismo en
+                pasado, y contemplando los puntos anteriores, según las características del proyecto
+                o desempeño profesional.</li>
               </ol>
             </ul>
           </div>
           <div id="test11" class="col s12">
             <ul>
-              <li><blockquote>Demostrar que el estudiante sustentante cuenta con la formación necesaria en la
-              trayectoria correspondiente y de igual manera, posee las capacidades necesarias para
-              organizar sus conocimientos y expresarlos de manera correcta, ordenada y coherente, en
-              un trabajo escrito,
+              <li><blockquote>Documentos que se solicitan para comprobar la actividad profesional:
               </blockquote></li>
               <ol>
-                <li>Debe ser un texto tipo expositivo-demostrativo.</li>
-                <li>El sustentante debe demostrar que ha adquirido una serie de conocimientos
-                necesarios para ejercer su profesión.
-                </li>
-                <li>Mostrar un marco teorico y estado del arte pertenecientes a la época y 
-                tema a desarrollar.
-                </li>
-                <li>El trabajo debe contener un tono y lenguaje formal así como una inteción
-                rigurosa y objetiva.
-                </li>
-                <li><b>La extensión debe ser más corta que una tesis</b></li>
-                <li>Debe contar con citas y referencias bibliográficas.</li>
-                <li>Los capitulos deben ser pertenecientes al tema central y tener continuidad
-                entre los mismos.
-                </li>
-                <li>Debe respetar signos de puntuación y una secuencia lógica.</li>
+                <li>El registro oficial de la institución empleadora ante el gobierno.</li>
+                <li>Carta oconstancia laboral oficial de la institución empleadora que reconozca la
+                participación de la persona solicitante.</li>
               </ol>
             </ul>
           </div>
@@ -349,9 +329,8 @@
         </div>
         <div class="card-stacked">
           <div class="card-content">
-            <p><i>Consiste en el desarollo de un trabajo escrito por la elaboración de material didactico
-            y/o la critica escrita del programa de alguna asignatura o actividad academica del plan de estudios
-            de licenciatura o bachillerato, o de este en su totalidad.
+            <p><i>La persona solicitante debe entregar una tesina individual sobre las actividades realizadas 
+            en dicho servicio.
             </i></p>
           </div>
           <div class="card-action">
@@ -368,43 +347,35 @@
           </div>
           <div id="test13" class="col s12">
             <ul>
-              <li><blockquote>Expresar una posición referente a un tema en específico (relacionado con la
-              licenciatura de Ingeniería en Computación), y que responde a una pregunta o hipótesis
-              formulada dentro del trabajo mismo</blockquote></li>
+              <li><blockquote>Comunicar de manera crítica sus experiencias con relación a la ejecución de
+              ciertas funciones profesionales, aplicación de alguna metodología, técnica o procedimiento
+              para la resolución de alguna problemática o proyecto en un área afin de la carrera cursada.</blockquote></li>
               <ol>
-                <li>Emplear una metodologia cientifica</li>
-                <li>Debe contener caracteristicas de los textos cientificos</li>
-                <li>Debe contener referencias y citas</li>
-                <li>La estructura y escritura deben ser claras y concisas</li>
-                <li>Debe presentar originalidad en el estilo y contenido</li>
-                <li>Debe seguir un orden en el capitulado y centrarse en el tema a defender</li>
+                <li>Portada.</li>
+                <li>Índice.</li>
+                <li>Introducción describiendo brevemente las actividades realizadas y el contexto
+                organizacional, así como la estructura organizacional y mencionar el área donde se
+                llevó a cabo el servicio social.</li>
+                <li> Desarrollo de las actividades realizadas, mencionando su importancia dentro de la
+                institución y en la comunidad.</li>
+                <li>Resultados obtenidos.</li>
+                <li>Conclusiones.</li>
+                <li>Bibliografía.</li>
               </ol>
             </ul>
           </div>
           <div id="test14" class="col s12">
             <ul>
-              <li><blockquote>Demostrar que el estudiante sustentante cuenta con la formación necesaria en la
-              trayectoria correspondiente y de igual manera, posee las capacidades necesarias para
-              organizar sus conocimientos y expresarlos de manera correcta, ordenada y coherente, en
-              un trabajo escrito,
+              <li><blockquote> Para poder registrar esta opcion de titulacion el solicitante debe cumplir los siguientes
+              requisitos:
               </blockquote></li>
               <ol>
-                <li>Debe ser un texto tipo expositivo-demostrativo.</li>
-                <li>El sustentante debe demostrar que ha adquirido una serie de conocimientos
-                necesarios para ejercer su profesión.
-                </li>
-                <li>Mostrar un marco teorico y estado del arte pertenecientes a la época y 
-                tema a desarrollar.
-                </li>
-                <li>El trabajo debe contener un tono y lenguaje formal así como una inteción
-                rigurosa y objetiva.
-                </li>
-                <li><b>La extensión debe ser más corta que una tesis</b></li>
-                <li>Debe contar con citas y referencias bibliográficas.</li>
-                <li>Los capitulos deben ser pertenecientes al tema central y tener continuidad
-                entre los mismos.
-                </li>
-                <li>Debe respetar signos de puntuación y una secuencia lógica.</li>
+                <li> Presentar una constancia de actividades del servicio social acorde al área de
+                Ingeniería en Computación Emitida por la persona responsable directa del servicio
+                social, quien deberá ser profesionista y de un perfil afín.</li>
+                <li>La persona solicitante deberá realizar el registro de la opción de titulación durante el
+                primer año, después de haber cubierto la totalidad de créditos establecidos en el
+                plan de estudios.
               </ol>
             </ul>
           </div>
