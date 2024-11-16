@@ -41,7 +41,7 @@
 
       <div class="sizeCardPlanEstudios">
         <div class="col s12 m5">
-          <div class="card-panel cardPlanEstudios colorCardPlanEstudiosMedio">
+          <div class="card-panel cardPlanEstudios colorCardPlanEstudiosMedio grey lighten-1">
             <h5>Plan 1279</h5>
             <p>Requisitos</p>
             <ol>
@@ -49,7 +49,7 @@
               <li>Carta de liberación Servicio Social</li>
               <li>Constancia aprobatoria Inglés</li>
             </ol>
-            <a class="waves-effect btn-small botonCardMedio" href="./modos.php">Modos de titulación</a>
+            <a class="waves-effect btn-small botonCardMedio grey darken-4" href="./modos.php">Modos de titulación</a>
           </div>
         </div>
       </div>
