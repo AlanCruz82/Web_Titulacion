@@ -21,6 +21,9 @@
           </div>
           <div class="card-action">
           <a href="./pdf/listado-de-personas-tutoras.pdf" target="_blank">Tutores</a>
+            <div class="art-lts">
+              <i>Articulos relacionados: 32, 33 y 34. <br> Toma de protesta: 17, 18, 22, 23, 24, 25, 26, 27 y 30.</i>
+            </div>
           </div>
         </div>
         <div class="card-reveal">
@@ -125,6 +128,9 @@
           </div>
           <div class="card-action">
             <a href="./pdf/Actividad-investigacion.pdf" target="_blank">Proyectos</a> 
+            <div class="art-lts">
+              <i>Articulos relacionados:  13, 14, 35, 36 y 37.</i>
+            </div>
           </div>
         </div>
         <div class="card-reveal">
@@ -212,6 +218,9 @@
           </div>
           <div class="card-action">
             <a href="./pdf/apoyo-docencia.pdf" target="_blank">Programas</a>
+            <div class="art-lts">
+              <i>Articulos relacionados: 43, 44, 45, 46 y 47. <br> Toma de protesta: 20, 22, 23, 26, 27 y 30.</i>
+            </div>
           </div>
         </div>
         <div class="card-reveal">
@@ -276,6 +285,9 @@
           </div>
           <div class="card-action">
             <a href="#"></a>
+            <div class="art-lts">
+              <i>Articulos relacionados: 48, 49, 50 y 51.</i>
+            </div>
           </div>
         </div>
         <div class="card-reveal">
@@ -335,6 +347,9 @@
           </div>
           <div class="card-action">
             <a href="#"></a>
+            <div class="art-lts">
+              <i>Articulos relacionados: 52, 53, 54 y 55. <br> Toma de protesta: 20, 22, 23, 26, 27 y 30.</i>
+            </div>
           </div>
         </div>
         <div class="card-reveal">
@@ -399,6 +414,9 @@
           </div>
           <div class="card-action">
             <a href="./pdf/proyectos-investigacion-ico.pdf" target="_blank">Tutores</a>
+            <div class="art-lts">
+              <i>Articulos relacionados: 13. 14. 56, 57 y 58.</i>
+            </div>
           </div>
         </div>
         <div class="card-reveal">
@@ -475,6 +493,9 @@
           </div>
           <div class="card-action">
             <a href="./pdf/examen-general.pdf" target="_blank">Instituciones</a>
+            <div class="art-lts">
+              <i>Articulos relacionados:  26, 59 y 60.</i>
+            </div>
           </div>
         </div>
         <div class="card-reveal">
@@ -519,6 +540,9 @@
           </div>
           <div class="card-action">
             <a href="#"></a>
+            <div class="art-lts">
+              <i>Articulos relacionados:  61 y 62.</i>
+            </div>
           </div>
         </div>
         <div class="card-reveal">
@@ -564,6 +588,9 @@
           </div>
           <div class="card-action">
             <a href="./pdf/listado-de-posgrados.pdf" target="_blank">Posgrados</a>
+            <div class="art-lts">
+              <i>Articulos relacionados:  63 y 64.</i>
+            </div>
           </div>
         </div>
         <div class="card-reveal">
@@ -610,6 +637,9 @@
           </div>
           <div class="card-action">
             <a href="./pdf/Ampliacion-de-solicitud.pdf" target="_blank">Cursos o diplomados</a>
+            <div class="art-lts">
+              <i>Articulos relacionados:  65 y 66.</i>
+            </div>
           </div>
         </div>
         <div class="card-reveal">
@@ -656,6 +686,9 @@
           </div>
           <div class="card-action">
             <a href="./pdf/listado-de-cursos-diplomados.pdf" target="_blank">Cursos o diplomados</a>
+            <div class="art-lts">
+              <i>Articulos relacionados: : 67, 68 y 69.</i>
+            </div>
           </div>
         </div>
         <div class="card-reveal">
