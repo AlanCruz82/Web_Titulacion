@@ -98,6 +98,13 @@
     </div>
     <div class="parallax responsive-img"><img src="./img/facultad_fes.png"></div>
   </div>
+  <script>
+        const mensaje = localStorage.getItem('mensaje');
+        if (mensaje) {
+            alert(mensaje);
+            localStorage.removeItem('mensaje');
+        }
+    </script>
 </body>
 
 <?php

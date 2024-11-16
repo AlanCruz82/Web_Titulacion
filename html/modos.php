@@ -609,7 +609,7 @@
             de la carrera.</i></p>
           </div>
           <div class="card-action">
-            <a href="./pdf/Ampliacion-de-solicitud.pdf">Solicitud de ampliacion</a>
+            <a href="./pdf/Ampliacion-de-solicitud.pdf" target="_blank">Formato de solicitud</a>
           </div>
         </div>
         <div class="card-reveal">
