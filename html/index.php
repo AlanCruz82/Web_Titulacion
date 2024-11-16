@@ -86,18 +86,24 @@
     </div>
   </div>
 
-
   <div class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <div class="row center">
-          <h3 class="header col s12 light">Formato de registro</h3>
-          <iframe src="" frameborder="10" width="600" height="400"></iframe>
+    <div class="parallax">
+      <img src="./img/facultad_fes.png">
+    </div>
+    <div class="container">
+      <div class="row center">
+        <div class="col s12 m12">
+          <h5>Lineamientos internos FES Aragón</h5>
+          <object data="./pdf/lineamientos-internos-titulacion.pdf" type="application/pdf" width="600" height="500">
+            <p>Tu navegador no puede mostrar el pdf
+              <a href="./pdf/lineamientos-internos-titulacion.pdf" download>Lineamientos internos FES Aragón</a>
+            </p>
+          </object>
         </div>
       </div>
     </div>
-    <div class="parallax responsive-img"><img src="./img/facultad_fes.png"></div>
   </div>
+  
   <script>
         const mensaje = localStorage.getItem('mensaje');
         if (mensaje) {
