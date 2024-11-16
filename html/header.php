@@ -20,13 +20,13 @@
       <img src="./img/Logo_fes_oro.png" class="logo">
       <span class="brand-logo white-text">Titulación</span>
       <ul id="nav-desktop" class="right hide-on-med-and-down">
-        <li><a href="./index.php" class="white-text">Inicio</a></li>
-        <li><a href="./formulario.php" class="white-text">Registro modalidad</a></li>
+        <li><a href="./index.php" class="white-text"><i class="material-icons left">home</i>Inicio</a></li>
+        <li><a href="./formulario.php" class="white-text"><i class="material-icons left">assignment</i>Registro modalidad</a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav grey lighten-1">
-        <li><a href="./index.php">Inicio</a></li>
-        <li><a href="./formulario.php">Registro</a></li>
+        <li><a href="./index.php"><i class="material-icons left">home</i>Inicio</a></li>
+        <li><a href="./formulario.php"><i class="material-icons left">assignment</i>Registro</a></li>
       </ul>
       <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
     </div>
