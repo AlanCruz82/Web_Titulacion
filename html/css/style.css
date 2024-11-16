@@ -69,15 +69,25 @@
     padding: 50px;
 }
 
-.butonFormulario{
-    flex-shrink: 3;
-    background-color: rgb(167, 167, 167);
+.form-container{
+    border-radius: 10px;
+    width: 100%;
 }
 
-.butonFormulario:hover{
+.formulario{
+    padding: 3% 5%;
+    margin: 5% 0%;
+}
+
+.botonFormulario{
+    flex-shrink: 3;
+    background-color: rgb(205,205,205);
+}
+
+.botonFormulario:hover{
     background-color: rgb(88, 87, 87);
 }
 
-.butonFormulario:active{
+.botonFormulario:active{
     background-color: rgb(205,205,205);
 }
