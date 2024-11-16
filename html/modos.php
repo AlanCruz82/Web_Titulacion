@@ -124,7 +124,7 @@
             de la carrera.</i></p>
           </div>
           <div class="card-action">
-            <a href="./pdf/Actividad-investigacion.pdf" target="_blank">Tutores</a> 
+            <a href="./pdf/Actividad-investigacion.pdf" target="_blank">Proyectos</a> 
           </div>
         </div>
         <div class="card-reveal">
@@ -211,7 +211,7 @@
             </i></p>
           </div>
           <div class="card-action">
-            <a href="./pdf/apoyo-docencia.pdf" target="_blank">Institucion o responsable</a>
+            <a href="./pdf/apoyo-docencia.pdf" target="_blank">Programas</a>
           </div>
         </div>
         <div class="card-reveal">
@@ -474,7 +474,7 @@
             </i></p>
           </div>
           <div class="card-action">
-            <a href="./pdf/examen-general.pdf" target="_blank">Informacion URL</a>
+            <a href="./pdf/examen-general.pdf" target="_blank">Instituciones</a>
           </div>
         </div>
         <div class="card-reveal">
@@ -563,7 +563,7 @@
             </i></p>
           </div>
           <div class="card-action">
-            <a href="./pdf/listado-de-posgrados.pdf" target="_blank">Informacion URL</a>
+            <a href="./pdf/listado-de-posgrados.pdf" target="_blank">Posgrados</a>
           </div>
         </div>
         <div class="card-reveal">
@@ -609,7 +609,7 @@
             de la carrera.</i></p>
           </div>
           <div class="card-action">
-            <a href="./pdf/Ampliacion-de-solicitud.pdf" target="_blank">Formato de solicitud</a>
+            <a href="./pdf/Ampliacion-de-solicitud.pdf" target="_blank">Cursos o diplomados</a>
           </div>
         </div>
         <div class="card-reveal">
@@ -655,7 +655,7 @@
             de la carrera.</i></p>
           </div>
           <div class="card-action">
-            <a href="./pdf/listado-de-cursos-diplomados.pdf" target="_blank">Informacion URL</a>
+            <a href="./pdf/listado-de-cursos-diplomados.pdf" target="_blank">Cursos o diplomados</a>
           </div>
         </div>
         <div class="card-reveal">
