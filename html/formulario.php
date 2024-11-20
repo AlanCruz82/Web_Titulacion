@@ -33,7 +33,7 @@
               </div>
               <div class="input-field col s6 m6">
                 <i class="material-icons prefix">featured_play_list</i>
-                <input placeholder="Ingresa tu número de cuenta" id="disabled" type="number" class="validate" minlength="9" maxlength="9"
+                <input placeholder="Ingresa tu número de cuenta" id="disabled" type="tel" class="validate" minlength="9" maxlength="9"
                 pattern="^[0-9]{9}$" name="numeroCuenta" required>
                 <label for="disabled">Número de cuenta</label>
                 <span class="helper-text" data-error="wrong" data-success="right">Es necesario 9 numeros</span>
@@ -42,7 +42,7 @@
             <div class="row">
               <div class="input-field col s6 m6">
                 <i class="material-icons prefix">phone</i>
-                <input placeholder="Ingresa tu telefono celular" id="disabled" type="number" class="validate" minlength="10" maxlength="10"
+                <input placeholder="Ingresa tu telefono celular" id="disabled" type="tel" class="validate" minlength="10" maxlength="10"
                 pattern="^[0-9]{10}$" name="telefonoCelular" required>
                 <label for="disabled">Número celular</label>
                 <span class="helper-text" data-error="wrong" data-success="right">Es necesario 10 numeros</span>
