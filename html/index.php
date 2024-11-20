@@ -17,72 +17,98 @@
     </div>
     <div class="parallax responsive-img"><img src="./img/Entrada_fes.png"></div>
   </div>
+  
+  <div class="container-cards">
+    <div class="row">
 
+      <div class="header-info">
+        <h5 class="center-align">Requisitos establecidos en el Plan De Estudios y en las Reglas De Operación <br>
+        <i>Puedes consultar tu plan de estudios en <a href="https://www.dgae-siae.unam.mx/www_gate.php" target="_blank">SIAE</a></i></h5>
+      </div>
 
-  <div class="container-cards" style="width: 100%;">
-    <h5 class="center">Requisitos establecidos en el Plan De Estudios y en las Reglas De Operación 
-                      <br><i>Puedes consultar tu plan de estudios en</i>
-                      <a href="https://www.dgae-siae.unam.mx/www_gate.php" target="_blank">SIAE</a></h5>
-    <div class="section sectRequisitos">
-      <!--   Card Section   -->
-      <div class="sizeCardPlanEstudios">
-        <div class="col s12 m5">
-          <div class="card-panel cardPlanEstudios colorCardPlanEstudiosLados">
-            <h5>Plan 80</h5>
-            <p>Requisitos</p>
+      <div class="card-plan82 col s6 m3">
+        <div class="card grey lighten-1">
+          <div class="card-content black-text">
+            <span class="card-title center-align"><b>Plan 80</b></span>
+            <br>
+            <p class="center-align">Requisitos</p>
+            <br>
             <ol>
               <li>Certificado de estudios</li>
               <li>Carta de liberación Servicio Social</li>
+              <br>
+              <br>
+              <br>
             </ol>
-            <a class="waves-effect btn-small botonCardLateral" href="./modos.php">Modos de titulación</a>
+            <div class="btn-modalidades center-align">
+              <a class="waves-effect btn-small botonCard" href="./modos.php">Modos de titulación</a>
+            </div>
           </div>
         </div>
       </div>
 
-      <div class="sizeCardPlanEstudios">
-        <div class="col s12 m5">
-          <div class="card-panel cardPlanEstudios colorCardPlanEstudiosMedio grey lighten-1">
-            <h5>Plan 1279</h5>
-            <p>Requisitos</p>
+      <div class="card-plan1279 col s6 m3">
+        <div class="card grey lighten-1">
+          <div class="card-content black-text">
+            <span class="card-title center-align"><b>Plan 1279</b></span>
+            <br>
+            <p class="center-align">Requisitos</p>
+            <br>
             <ol>
-              <li>Certificado de estudios</li>
+            <li>Certificado de estudios</li>
               <li>Carta de liberación Servicio Social</li>
-              <li>Constancia aprobatoria Inglés</li>
+              <li>Constancia aprobatoria inglés</li>
+              <br>
+              <br>
             </ol>
-            <a class="waves-effect btn-small botonCardMedio grey darken-4" href="./modos.php">Modos de titulación</a>
+            <div class="btn-modalidades center-align">
+              <a class="waves-effect btn-small botonCard" href="./modos.php">Modos de titulación</a>
+            </div>
           </div>
         </div>
       </div>
 
-      <div class="sizeCardPlanEstudios">
-        <div class="col s12 m5">
-          <div class="card-panel cardPlanEstudios colorCardPlanEstudiosLados">
-            <h5>Plan 2119</h5>
-            <p>Requisitos</p>
+      <div class="card-plan2119 col s6 m3">
+        <div class="card grey lighten-1">
+          <div class="card-content black-text">
+            <span class="card-title center-align"><b>Plan 2119</b></span>
+            <br>
+            <p class="center-align">Requisitos</p>
+            <br>
             <ol>
               <li>Certificado de estudios</li>
               <li>Carta de liberación Servicio Social</li>
-              <li>Constancia aprobatoria Inglés</li>
-              <li>Constancia de liberacion horas complementarias</li>
+              <li>Constancia aprobatoria inglés</li>
+              <li>Contancia liberación horas complementarias</li>
             </ol>
-            <a class="waves-effect btn-small botonCardLateral" href="./modos.php">Modos de titulación</a>
+            <div class="btn-modalidades center-align">
+              <a class="waves-effect btn-small botonCard" href="./modos.php">Modos de titulación</a>
+            </div>
           </div>
         </div>
       </div>
 
-      <div class="sizeCardPlanEstudios">
-        <div class="col s12 m5">
-          <div class="card-panel cardPlanEstudios colorCardPlanEstudiosLados">
-            <h5>Plan 82</h5>
-            <p>Requisitos</p>
+      <div class="card-plan82 col s6 m3">
+        <div class="card grey lighten-1">
+          <div class="card-content black-text">
+            <span class="card-title center-align"><b>Plan 82</b></span>
+            <br>
+            <p class="center-align">Requisitos</p>
+            <br>
             <ol>
               <li>Certificado de estudios</li>
               <li>Carta de liberación Servicio Social</li>
+              <br>
+              <br>
+              <br>
             </ol>
-            <a class="waves-effect btn-small botonCardLateral" href="./modos.php">Modos de titulación</a>
+            <div class="btn-modalidades center-align">
+              <a class="waves-effect btn-small botonCard" href="./modos.php">Modos de titulación</a>
+            </div>
           </div>
         </div>
       </div>
+
     </div>
   </div>
 
