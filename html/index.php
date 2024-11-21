@@ -34,8 +34,8 @@
             <p class="center-align">Requisitos</p>
             <br>
             <ol>
-              <li><a href="./pdf/certificado-de-estudios.pdf" target="_blank">Certificado de estudios</a></li>
-              <li><a href="./pdf/carta-liberacion-servicio.pdf" target="_blank">Carta de liberación Servicio Social</a></li>
+              <li><a href="./PDF/certificado-de-estudios.pdf" target="_blank">Certificado de estudios</a></li>
+              <li><a href="./PDF/carta-liberacion-servicio.pdf" target="_blank">Carta de liberación Servicio Social</a></li>
               <br>
               <br>
               <br>
@@ -55,8 +55,8 @@
             <p class="center-align">Requisitos</p>
             <br>
             <ol>
-              <li><a href="./pdf/certificado-de-estudios.pdf" target="_blank">Certificado de estudios</a></li>
-              <li><a href="./pdf/carta-liberacion-servicio.pdf" target="_blank">Carta de liberación Servicio Social</a></li>
+              <li><a href="./PDF/certificado-de-estudios.pdf" target="_blank">Certificado de estudios</a></li>
+              <li><a href="./PDF/carta-liberacion-servicio.pdf" target="_blank">Carta de liberación Servicio Social</a></li>
               <li><a href="https://siglear.aragon.unam.mx/" target="_blank">Constancia aprobatoria inglés</a></li>
               <br>
               <br>
@@ -76,10 +76,10 @@
             <p class="center-align">Requisitos</p>
             <br>
             <ol>
-              <li><a href="./pdf/certificado-de-estudios.pdf" target="_blank">Certificado de estudios</a></li>
-              <li><a href="./pdf/carta-liberacion-servicio.pdf" target="_blank">Carta de liberación Servicio Social</a></li>
+              <li><a href="./PDF/certificado-de-estudios.pdf" target="_blank">Certificado de estudios</a></li>
+              <li><a href="./PDF/carta-liberacion-servicio.pdf" target="_blank">Carta de liberación Servicio Social</a></li>
               <li><a href="https://siglear.aragon.unam.mx/" target="_blank">Constancia aprobatoria inglés</a></li>
-              <li><a href="./pdf/actividad-formacion-complementaria.pdf" target="_blank">Constancia liberación horas complementarias</a></li>
+              <li><a href="./PDF/actividad-formacion-complementaria.pdf" target="_blank">Constancia liberación horas complementarias</a></li>
             </ol>
             <div class="btn-modalidades center-align">
               <a class="waves-effect btn-small botonCard" href="./modos.php">Modos de titulación</a>
@@ -96,8 +96,8 @@
             <p class="center-align">Requisitos</p>
             <br>
             <ol>
-              <li><a href="./pdf/certificado-de-estudios.pdf" target="_blank">Certificado de estudios</a></li>
-              <li><a href="./pdf/carta-liberacion-servicio.pdf" target="_blank">Carta de liberación Servicio Social</a></li>
+              <li><a href="./PDF/certificado-de-estudios.pdf" target="_blank">Certificado de estudios</a></li>
+              <li><a href="./PDF/carta-liberacion-servicio.pdf" target="_blank">Carta de liberación Servicio Social</a></li>
               <br>
               <br>
               <br>
@@ -120,9 +120,9 @@
       <div class="row center">
         <div class="col s12 m12">
           <h5>Lineamientos internos FES Aragón</h5>
-          <object data="./pdf/lineamientos-internos-titulacion.pdf" type="application/pdf" width="600" height="500">
+          <object data="./PDF/lineamientos-internos-titulacion.pdf" type="application/pdf" width="600" height="500">
             <p>Tu navegador no puede mostrar el pdf
-              <a href="./pdf/lineamientos-internos-titulacion.pdf" download>Lineamientos internos FES Aragón</a>
+              <a href="./PDF/lineamientos-internos-titulacion.pdf" download>Lineamientos internos FES Aragón</a>
             </p>
           </object>
         </div>
