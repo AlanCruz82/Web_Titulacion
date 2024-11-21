@@ -509,7 +509,9 @@
             <ul>
               <li><blockquote>Expresar una posición referente a un tema en específico (relacionado con la
               licenciatura de Ingeniería en Computación), y que responde a una pregunta o hipótesis
-              formulada dentro del trabajo mismo</blockquote></li>
+              formulada dentro del trabajo mismo, Opción de titulación que comprende la aplicación de un examen escrito aplicado por una
+              institución externa a la facultad. (oferta Académica en la sección de Ciencias
+              Físico Matemáticas y de las Ingenierías / Computación / Titulación /)</blockquote></li>
               <ol>
                 <li>Emplear una metodologia cientifica</li>
                 <li>Debe contener caracteristicas de los textos cientificos</li>
@@ -551,6 +553,10 @@
             <ul class="tabs">
               <li class="tab col s12"><a href="#test22" class="active">Requisitos</a></li>
             </ul>
+            <li>Los requisitos que debe de cumplir el solicitante:</li>
+            <li>1. Tener un promedio general en la carrera como mínimo de 9.5 (nueve punto cinco).</li>
+            <li>2. Cubrir la totalidad de los créditos de su plan de estudios en tiempo curricular.</li>
+             <li>3. Tener calificación aprobatoria en todas las asignaturas o módulos en su primera inscripción.</li>
           </div>
           <div id="test22" class="col s12">
             <ul>
@@ -564,6 +570,19 @@
                 <li>La estructura y escritura deben ser claras y concisas</li>
                 <li>Debe presentar originalidad en el estilo y contenido</li>
                 <li>Debe seguir un orden en el capitulado y centrarse en el tema a defender</li>
+                <li>Tener un promedio general en la carrera como mínimo de 9.5 (nueve punto cinco).</li> 
+                <li>Cubrir la totalidad de los créditos de su plan de estudios en tiempo curricular.</li>
+                 <li>Tener calificación aprobatoria en todas las asignaturas o módulos en su primera inscripción.</li> 
+                </ol> <p><i>Notas: La aprobación del registro lo emitirá la Jefatura de Carrera conforme el artículo 26. La persona solicitante debe realizar el registro de la opción durante los primeros dos años después de haber cubierto la totalidad de créditos establecidos en el plan de estudios.</i></p>
+                <p><b>Incluye mención honorífica con los requisitos mencionados arriba</b></p> 
+                <p>Para obtener la mención honorífica el solicitante debe realizar un trabajo escrito y promover su examen profesional ante la Jefatura de Carrera.</p> 
+                <li>Portada.</li>
+                <li>Índice.</li>
+                <li>Introducción</li>
+                <li> Desarrollo de la tematica relacionada, con algun tema visto o relacionado a la carreara</li>
+                <li>Conclusiones.</li>
+                <li>Bibliografía.</li>
+              </div>
               </ol>
             </ul>
           </div>
@@ -648,6 +667,10 @@
             <ul class="tabs">
               <li class="tab col s12"><a href="#test28" class="active">Requisitos</a></li>
             </ul>
+            <li>Los requisitos que debe de cumplir el solicitante:</li>
+            <li>1. HAber concluido los creditos de la licenciatura en tiempo curricular con promedio mínimo de 8.5 (ocho punto cinco).</li>
+            <li>2. Aprobar un número adicional de asignaturas de la misma licenciatura o de otra afín impartida por la UNAM
+              equivalente cuando menos al diez por ciento (10%) de créditos totales de su licenciatura, con un promedio mínimo de 9.0 (nueve).</li>
           </div>
           <div id="test28" class="col s12">
             <ul>
@@ -661,6 +684,9 @@
                 <li>La estructura y escritura deben ser claras y concisas</li>
                 <li>Debe presentar originalidad en el estilo y contenido</li>
                 <li>Debe seguir un orden en el capitulado y centrarse en el tema a defender</li>
+                <li>Opción de titulación en el que la persona solicitante deberá aprobar cursos o diplomados de 
+                  educación continua impartidos por la UNAM, cuya duración sume al menos 240 horas.
+                  (Oferta académica en la sección de Ciencias Físico Matemáticas y de las ingenierías /Computación / Titulación /).</li>
               </ol>
             </ul>
           </div>
