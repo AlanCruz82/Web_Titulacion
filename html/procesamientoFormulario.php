@@ -1,5 +1,5 @@
 <?php
-$baseDatos = new mysqli("127.0.0.1", "luis", "1234", "paginatitulacion", 3306);
+$baseDatos = new mysqli("127.0.0.1", "ico", "1234", "paginatitulacion", 3306);
 if ($baseDatos->connect_errno) {
     echo "Fallo al conectar Base de datos";
 }
