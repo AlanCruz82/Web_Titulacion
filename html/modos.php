@@ -486,9 +486,8 @@
         </div>
         <div class="card-stacked">
           <div class="card-content">
-            <p><i>Consiste en el desarollo de un trabajo escrito por la elaboración de material didactico
-            y/o la critica escrita del programa de alguna asignatura o actividad academica del plan de estudios
-            de licenciatura o bachillerato, o de este en su totalidad.
+            <p><i>Comprende la aplicación de un examen escrito aplicado por una institución externa a la 
+            facultad. 
             </i></p>
           </div>
           <div class="card-action">
@@ -507,17 +506,10 @@
           </div>
           <div id="test19" class="col s12">
             <ul>
-              <li><blockquote>Expresar una posición referente a un tema en específico (relacionado con la
-              licenciatura de Ingeniería en Computación), y que responde a una pregunta o hipótesis
-              formulada dentro del trabajo mismo</blockquote></li>
-              <ol>
-                <li>Emplear una metodologia cientifica</li>
-                <li>Debe contener caracteristicas de los textos cientificos</li>
-                <li>Debe contener referencias y citas</li>
-                <li>La estructura y escritura deben ser claras y concisas</li>
-                <li>Debe presentar originalidad en el estilo y contenido</li>
-                <li>Debe seguir un orden en el capitulado y centrarse en el tema a defender</li>
-              </ol>
+              <li><blockquote> La aprobación del registro de la opción lo emitirá la Jefatura de Carrera 
+              conforme el artículo 26.</blockquote></li>
+              <p><b><i>La persona solicitante deberá obtener el testimonio de desempeño
+              satisfactorio o sobresaliente, como resultado de la prueba.</i></b></p>
             </ul>
           </div>
         </div>
@@ -534,9 +526,10 @@
         </div>
         <div class="card-stacked">
           <div class="card-content">
-            <p><i>Para las personas que se hayan incorporado y participado (por lo
-            menos un semestre) en los proyectos de investigación aprobados por el Comité Académico
-            de la carrera.</i></p>
+            <p><i>Para la persona solicitante que haya concluido la totalidad de sus creditos
+            con un promedio minimo de 9.5 (nueve punto cinco) y que haya aprobado todas sus materias en su 
+            primera inscripción
+            </i></p>
           </div>
           <div class="card-action">
             <a href="#"></a>
@@ -554,17 +547,16 @@
           </div>
           <div id="test22" class="col s12">
             <ul>
-              <li><blockquote>Expresar una posición referente a un tema en específico (relacionado con la
-              licenciatura de Ingeniería en Computación), y que responde a una pregunta o hipótesis
-              formulada dentro del trabajo mismo</blockquote></li>
               <ol>
-                <li>Emplear una metodologia cientifica</li>
-                <li>Debe contener caracteristicas de los textos cientificos</li>
-                <li>Debe contener referencias y citas</li>
-                <li>La estructura y escritura deben ser claras y concisas</li>
-                <li>Debe presentar originalidad en el estilo y contenido</li>
-                <li>Debe seguir un orden en el capitulado y centrarse en el tema a defender</li>
+                <li>Tener un promedio general en la carrera como mínimo de 9.5 (nueve punto cinco).</li>
+                <li>Cubrir la totalidad de los créditos de su plan de estudios en tiempo curricular.</li>
+                <li>Tener calificación aprobatoria en todas las asignaturas o módulos en su primera
+                inscripción</li>
               </ol>
+
+              <p><b><i>La persona solicitante debe realizar el registro de la opción durante los primeros
+              dos años después de haber cubierto la totalidad de créditos establecidos en el plan de estudios.
+              </i></b></p>
             </ul>
           </div>
         </div>
@@ -581,10 +573,8 @@
         </div>
         <div class="card-stacked">
           <div class="card-content">
-            <p><i>Consiste en el desarollo de un trabajo escrito por la elaboración de material didactico
-            y/o la critica escrita del programa de alguna asignatura o actividad academica del plan de estudios
-            de licenciatura o bachillerato, o de este en su totalidad.
-            </i></p>
+            <p><i>Ingresar a una especialización, maestría o doctorado impartido por la UNAM afín a su área de
+            formación o vinculado a su área de conocimientos.</i></p>
           </div>
           <div class="card-action">
             <a href="./pdf/listado-de-posgrados.pdf" target="_blank">Posgrados</a>
@@ -602,17 +592,18 @@
           </div>
           <div id="test25" class="col s12">
             <ul>
-              <li><blockquote>Expresar una posición referente a un tema en específico (relacionado con la
-              licenciatura de Ingeniería en Computación), y que responde a una pregunta o hipótesis
-              formulada dentro del trabajo mismo</blockquote></li>
               <ol>
-                <li>Emplear una metodologia cientifica</li>
-                <li>Debe contener caracteristicas de los textos cientificos</li>
-                <li>Debe contener referencias y citas</li>
-                <li>La estructura y escritura deben ser claras y concisas</li>
-                <li>Debe presentar originalidad en el estilo y contenido</li>
-                <li>Debe seguir un orden en el capitulado y centrarse en el tema a defender</li>
+                <li> Cumplir con los requisitos correspondiente para el ingreso e ingresar a una
+                especialización, maestría o doctorado impartido por la UNAM afín a su área de
+                formación o vinculado a su área de conocimientos.</li>
+                <li>Acreditar en tiempo y forma las asignaturas o actividades académicas establecidas
+                para el primer semestre del plan de estudios del posgrado.</li>
+                <li>Cumplir con una modalidad de tiempo completo en el posgrado.</li>
+                <li>Acreditar cada materia con una materia calificación mínima de 8.0(ocho punto cero).</li>
               </ol>
+
+              <p><b><i>Se debe tener la autorización por parte de la Jefatura de Carrera previo al ingreso a
+              una especialización, materias o doctorado</i></b></p>
             </ul>
           </div>
         </div>
@@ -631,9 +622,8 @@
         </div>
         <div class="card-stacked">
           <div class="card-content">
-            <p><i>Para las personas que se hayan incorporado y participado (por lo
-            menos un semestre) en los proyectos de investigación aprobados por el Comité Académico
-            de la carrera.</i></p>
+            <p><i>Aprobar un número adicional de asignaturas de la misma licenciatura o de otra afín
+            impartida por la UNAM</i></p>
           </div>
           <div class="card-action">
             <a href="./pdf/Ampliacion-de-solicitud.pdf" target="_blank">Cursos o diplomados</a>
@@ -651,17 +641,20 @@
           </div>
           <div id="test28" class="col s12">
             <ul>
-              <li><blockquote>Expresar una posición referente a un tema en específico (relacionado con la
-              licenciatura de Ingeniería en Computación), y que responde a una pregunta o hipótesis
-              formulada dentro del trabajo mismo</blockquote></li>
               <ol>
-                <li>Emplear una metodologia cientifica</li>
-                <li>Debe contener caracteristicas de los textos cientificos</li>
-                <li>Debe contener referencias y citas</li>
-                <li>La estructura y escritura deben ser claras y concisas</li>
-                <li>Debe presentar originalidad en el estilo y contenido</li>
-                <li>Debe seguir un orden en el capitulado y centrarse en el tema a defender</li>
+                <li>Haber concluido los créditos de la licenciatura en tiempo curricular con un promedio
+                mínimo de 8.5 (ocho punto cinco).
+                </li>
+                <li>Aprobar un número adicional de asignaturas de la misma licenciatura o de otra afín
+                impartida por la UNAM, equivalente cuando menos al diez por ciento (10%) de
+                créditos totales de su licenciatura, con un promedio mínimo de 9.0 (nueve).
+                </li>
               </ol>
+
+              <p><b><i>Las asignaturas se deberán cursar en un semestre adicional</i></b></p>
+              <br>
+              <p><b><i>Una vez cubierto el registro, la persona solicitante deberá cursar el semestre adicional
+              en un plazo máximo de un año, para lo cual gestionará la inscripción ante la Jefatura de Carrera</i></b></p>
             </ul>
           </div>
         </div>
@@ -680,9 +673,9 @@
         </div>
         <div class="card-stacked">
           <div class="card-content">
-            <p><i>Para las personas que se hayan incorporado y participado (por lo
-            menos un semestre) en los proyectos de investigación aprobados por el Comité Académico
-            de la carrera.</i></p>
+            <p><i>La persona solicitante deberá aprobar cursos o diplomados de
+            educación continua impartidos por la UNAM, cuya duración sume al menos 240 horas.
+            </i></p>
           </div>
           <div class="card-action">
             <a href="./pdf/listado-de-cursos-diplomados.pdf" target="_blank">Cursos o diplomados</a>
@@ -700,17 +693,11 @@
           </div>
           <div id="test31" class="col s12">
             <ul>
-              <li><blockquote>Expresar una posición referente a un tema en específico (relacionado con la
-              licenciatura de Ingeniería en Computación), y que responde a una pregunta o hipótesis
-              formulada dentro del trabajo mismo</blockquote></li>
-              <ol>
-                <li>Emplear una metodologia cientifica</li>
-                <li>Debe contener caracteristicas de los textos cientificos</li>
-                <li>Debe contener referencias y citas</li>
-                <li>La estructura y escritura deben ser claras y concisas</li>
-                <li>Debe presentar originalidad en el estilo y contenido</li>
-                <li>Debe seguir un orden en el capitulado y centrarse en el tema a defender</li>
-              </ol>
+              <li><blockquote>Se debe tener autorización por parte de la Jefatura de Carrera previo al ingreso 
+              a los cursos o diplomados. </blockquote></li>
+              
+              <p><b><i>. El solicitante debe aprobar los cursos o diplomados con un promedio
+              final de 8.0(ocho punto cero)</i></b></p>
             </ul>
           </div>
         </div>
